@@ -104,3 +104,5 @@ DEPENDENCIES
 
 BUNDLED WITH
    2.4.22
+
+gem "github-pages", group: :jekyll_plugins
