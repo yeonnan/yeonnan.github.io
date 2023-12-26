@@ -21,7 +21,7 @@ title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "yeonnan"
 description: "A steadily and consistently growing development blog"
-url: "https://yeonnan.github.io"
+url: "https://github.com/yeonnan/yeonnan.github.io"
 path: path = yeonnan.github.io
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "yeonnan/comments" #댓글 경로 / github name/repository
