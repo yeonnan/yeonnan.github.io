@@ -21,12 +21,12 @@ title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "yeonnan"
 description: "A steadily and consistently growing development blog"
-url: "https://github.com/yeonnan/yeonnan.github.io.git"
+url: "https://yeonnan.github.io"
 path: path = yeonnan.github.io
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "yeonnan/comments" #댓글 경로 / github name/repository
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: "📌" # 타이틀 옆 로고
+logo: "/assets/images/logo.png" # 타이틀 옆 로고
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 future: true
 breadcrumbs: true # true, false (default)
@@ -103,7 +103,7 @@ analytics: # 블로그 접근 경로 확인 코드
 # Site Author / 사이드바 소개 부분
 author:
   name: "yeonnan"
-  avatar: "/assets/images/profile.jpg"
+  avatar: "/assets/images/profile.png"
   bio: "꾸준히 성장하고 발전하기"
   location: "south korea"
 
